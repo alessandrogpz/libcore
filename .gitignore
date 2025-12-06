@@ -1,0 +1,15 @@
+# Build Artifacts
+*.o
+*.a
+*.test
+
+# Temporary Directory
+tmp/
+
+# Logs
+tests_log
+
+# OS / Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
