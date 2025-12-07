@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h> // For standard atoi
 #include <string.h> // For strcmp/strdup if needed
-#include "includes.h"
+#include "libcore.h"
 
 // ====================================================================
 //                 TEST EXECUTION FUNCTION

@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h> // For standard memmove and memcmp
 #include <stdlib.h> // For malloc
-#include "includes.h"
+#include "libcore.h"
 
 // ====================================================================
 //            LOCAL FUNCTION DEFINITIONS (FOR TESTING)

@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h> // For standard memcmp
 #include <stdlib.h> // For EXIT_SUCCESS
-#include "includes.h"
+#include "libcore.h"
 
 // ====================================================================
 //                 TEST EXECUTION FUNCTION

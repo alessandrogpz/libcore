@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <ctype.h>  // For standard toupper
 #include <stdlib.h> // For EXIT_SUCCESS/FAILURE
-#include "includes.h"
+#include "libcore.h"
 
 // ====================================================================
 //                 TEST EXECUTION FUNCTION

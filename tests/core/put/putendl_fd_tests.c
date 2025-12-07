@@ -3,7 +3,7 @@
 #include <unistd.h> // For write, read, close, unlink
 #include <fcntl.h>  // For file flags
 #include <string.h> // For strcmp, strlen
-#include "includes.h"
+#include "libcore.h"
 
 // -----------------------------------------------------------------------------
 //                         FILE VERIFICATION TEST

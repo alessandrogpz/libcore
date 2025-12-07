@@ -1,4 +1,4 @@
-#include "includes.h"
+#include "libcore.h"
 
 /* Counts the number of non-delimiter segments ('words') in 's'. */
 size_t wordcount(char const *s, char c)

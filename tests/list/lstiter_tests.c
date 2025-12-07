@@ -2,7 +2,7 @@
 #include <stdlib.h> // For malloc, free, NULL
 #include <ctype.h>  // For toupper
 #include <string.h> // For strdup, strcmp
-#include "includes.h"
+#include "libcore.h"
 
 // -----------------------------------------------------------------------------
 //                         HELPER FUNCTIONS

@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h> // For NULL, EXIT_SUCCESS
 #include <string.h> // For strcmp
-#include "includes.h"
+#include "libcore.h"
 
 // ====================================================================
 //            LOCAL HELPER FUNCTIONS (FOR TESTING)

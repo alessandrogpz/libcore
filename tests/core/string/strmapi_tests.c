@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h> // For malloc, free, NULL
 #include <string.h> // For strcmp, strlen
-#include "includes.h"
+#include "libcore.h"
 
 // ====================================================================
 //            LOCAL FUNCTION DEFINITIONS (FOR TESTING)
