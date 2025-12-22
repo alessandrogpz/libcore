@@ -14,7 +14,7 @@ void putnbr_fd(int n, int fd)
     char *s;
     size_t len;
 
-    s = itoa(n);
+    s = core_itoa(n);
 
     if (!s)
         return;

@@ -79,8 +79,8 @@ int main(void)
     run_nbr_test("4. Standard Positive (4200)", 4200, "4200");
     run_nbr_test("5. Standard Negative (-1234)", -1234, "-1234");
 
-    // 3. Edge Cases (Crucial for itoa logic)
-    // NOTE: This test requires itoa to correctly handle INT_MIN.
+    // 3. Edge Cases (Crucial for core_itoa logic)
+    // NOTE: This test requires core_itoa to correctly handle INT_MIN.
     run_nbr_test("6. INT_MAX", INT_MAX, "2147483647");
     run_nbr_test("7. INT_MIN", INT_MIN, "-2147483648");
 

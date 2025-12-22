@@ -26,7 +26,7 @@ static int get_len(int n)
     return (len);
 }
 
-char *itoa(int n)
+char *core_itoa(int n)
 {
     int len;
     char *result;

@@ -1,5 +1,5 @@
 #ifndef CORE_CTYPE_H
-#define CORE_CTYPR_H
+#define CORE_CTYPE_H
 
 // Classification
 

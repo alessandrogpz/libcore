@@ -8,7 +8,7 @@
 
 size_t core_strlen(const char *str);
 int core_atoi(const char *n);
-char *itoa(int n);
+char *core_itoa(int n);
 
 /* ** String Copying & Concatenation */
 
